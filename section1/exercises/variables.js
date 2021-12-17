@@ -39,8 +39,9 @@ console.log(numberOfPets);
 // IN WORDS:
 // How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-console.log("I chose what made sense, firstName is straight forward and would only make sense as string, not a number or boolean, isHungry sounded like it needed a true or false response so I chose boolean, numberOfPets asks for a number in the name");
-
+  // I chose what made sense, firstName is straight forward and would only make
+   // sense as string, not a number or boolean, isHungry sounded like it needed a
+   //true or false response so I chose boolean, numberOfPets asks for a number in the name
 
 // YOU DO:
 // Re-assign the values to the three variables from the previous challenge to different

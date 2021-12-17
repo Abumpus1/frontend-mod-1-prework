@@ -16,14 +16,14 @@ var team = "Chudley Cannons";
 console.log("The " + team + " are " + name + "'s favorite Quidditch team");
 
 // YOU DO: Read the next few lines of code...
-var numberOfCreatures = 7;
+var numOfCreatures = 7;
 var creatures = "unicorns";
 
-console.log("My zoo has " + numberOfCreatures + " " + creatures + "!")
+console.log("My zoo has " + numOfCreatures + " " + creatures + "!");
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-console.log("A string will be logged, JavaScript converts the number into a string so it can be combined with the variable/string in the output");
+  // A string will be logged, JavaScript converts the number into a string so it can be combined with the variable/string in the output
 
 // YOU DO:
 // Write code that combines the variables below into a string that
@@ -50,7 +50,7 @@ var rewardType = "Cash";
 var rewardValue = 60;
 var ceoName = "Cave";
 
-console.log("Right. Now, you might be asking yourself, '" + ceoName + ", just how difficult are these tests? What was in that phonebook of a contract I signed? Am I in danger?' Let me answer those questions with a question: who wants to make " + rewardValue + " dollars? " + rewardType + ".");
+console.log("Right. Now, you might be asking yourself, \"" + ceoName + ", just how difficult are these tests? What was in that phonebook of a contract I signed? Am I in danger?\" Let me answer those questions with a question: who wants to make " + rewardValue + " dollars? " + rewardType + ".");
 
 
 //-------------------

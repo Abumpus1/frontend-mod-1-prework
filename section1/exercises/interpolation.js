@@ -23,7 +23,7 @@ console.log( `My zoo has ${numberOfCreatures} ${creatures}!`);
 
 // YOU DO: What data type will be logged to the console as a result of line 22? Explain.
 // Your answer and explanation here:
-console.log("A string will be logged, creature number will be converted into a string so they can be combined");
+  // A string will be logged, creature number will be converted into a string so they can be combined
 
 // YOU DO:
 // Write code that combines the variables below into a string that
