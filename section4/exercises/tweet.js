@@ -22,7 +22,7 @@ class Tweet {
   addComment(newComment) {
     this.comments.push(newComment);
   }
-};
+}
 
 var tweet1 = new Tweet("User1", "generic message", "7:43 PM", 30, ["nice", "haha"]);
 var tweet2 = new Tweet("User2", "another generic message", "9:23 AM", 500, ["wow", "comment2"]);

@@ -33,14 +33,13 @@ class Burrito {
     this.base = base;
     this.toppings = toppings;
   }
-  // ADD CODE
   changeProtein(newProtein) {
     this.protein = newProtein;
   }
   addTopping(newTopping) {
     this.toppings.push(newTopping);
   }
-};
+}
 
 // ADD CODE
 

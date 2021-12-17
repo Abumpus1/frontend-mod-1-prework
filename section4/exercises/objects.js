@@ -14,7 +14,7 @@ var foods = {
   apples: 23,
   grapes: 507,
   eggs: 48
-};
+}
 
 console.log(foods);
 // Notice that the variable name is foods, plural, because it has the ability to hold info about
@@ -31,7 +31,7 @@ var zooAnimals = {
   lions: 3,
   monkeys: 9,
   penguins: 5
-};
+}
 
 // Using the zoo that you created above, log the value of the first item in
 // the Object
@@ -64,11 +64,11 @@ Log your email object to the console.
 */
 var emailInfo = {
   sentFrom: "spam@gmail.com",
-  sentTo: "Chester@gmail.com",
+  sentTo: ["Chester@gmail.com"],
   emailHeader: "NOT SPAM I PROMISE",
   emailPreview: "Hello CHESTER, you are a WINNER, here's how you can clai...",
   read: false
-};
+}
 console.log(emailInfo);
 //-------------------
 // Part 3: Many Emails - OPTIONAL EXTENSION
