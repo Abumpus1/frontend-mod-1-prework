@@ -46,10 +46,10 @@ var dogAge = 3;
 
 if (dogAge <= 2) {
   console.log("Your dog's a puppy!");
-} else if (dogAge < 10) {
-  console.log("Your dog's an adult!");
-} else {
+} else if (dogAge >= 10) {
   console.log("Your dog's an elderly!");
+} else {
+  console.log("Your dog's an adult!");
 }
 
 /*

@@ -51,12 +51,12 @@ greetMe("Dwight");
 // YOU DO: Write a function that takes in 2 numbers as arguments, Numbers, and logs their sum
 // Then, call that function 3 times, each time, passing in 2 different Numbers.
 
-function numberSum(num1, num2) {
+function numSum(num1, num2) {
   console.log(`${num1} + ${num2} =`, num1 + num2);
 }
-numberSum(1, 2);
-numberSum(2, 2);
-numberSum(4, 4);
+numSum(1, 2);
+numSum(2, 2);
+numSum(4, 4);
 
 // YOU DO🎈: Write a function that takes in two strings and prints a concatenation
 // of those two strings, for example the arguments could be ("Oscar", "Ruck") and
