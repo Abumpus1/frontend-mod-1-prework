@@ -32,8 +32,8 @@ animals[2] = "Gorilla"
 
 // YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 animals[2] = "Lion"
- // quick note here, the wording feels weird to me on this one, it says add instead of reassign, but isn't [0] the
- // first position, so position 3 would be [2]? Is it meant to say position 4? if so I might put animals.push("Lion"); or animals[3] = "Lion"
+ // quick question here, the wording feels weird to me on this one, it says add instead of reassign, but isn't [0] the
+ // first position, so position 3 would be [2]? Is it meant to say position 4? If position 3 means [3] I could put animals.push("Lion"); or animals[3] = "Lion";
 
 
 // YOU DO: Write code that will log the String "Elephant" in the animals array
